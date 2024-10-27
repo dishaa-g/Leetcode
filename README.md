@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dishaa-g/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/dishaa-g/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dishaa-g/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1642-water-bottles](https://github.com/dishaa-g/Leetcode/tree/master/1642-water-bottles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/dishaa-g/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dishaa-g/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/dishaa-g/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
