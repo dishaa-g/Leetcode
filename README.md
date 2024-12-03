@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dishaa-g/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dishaa-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/dishaa-g/Leetcode/tree/master/0071-simplify-path) |
 ## String Matching
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dishaa-g/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/dishaa-g/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
