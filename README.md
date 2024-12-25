@@ -134,4 +134,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dishaa-g/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/dishaa-g/Leetcode/tree/master/0310-minimum-height-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/dishaa-g/Leetcode/tree/master/0310-minimum-height-trees) |
+## Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/dishaa-g/Leetcode/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/dishaa-g/Leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
