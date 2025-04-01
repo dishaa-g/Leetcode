@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dishaa-g/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/dishaa-g/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dishaa-g/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/dishaa-g/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dishaa-g/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/dishaa-g/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dishaa-g/Leetcode/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -117,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dishaa-g/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/dishaa-g/Leetcode/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/dishaa-g/Leetcode/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
 | ------- |
