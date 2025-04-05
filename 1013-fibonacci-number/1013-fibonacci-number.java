@@ -6,16 +6,13 @@ class Solution {
         if(n==1){
             return 1;
         }
-        int[] a= new int[n+1];
-        a[0]=0;
-        a[1]=1;
-        int b,c=0;
-        for(int i = 2; i<=n; i++ ){
-            b=i-1;
-            c=i-2;
-            a[i]=a[b]+a[c];
+        int a=0,b=1,c;
+        for(int i=2;i<=n;i++){
+            c=a+b;
+            a=b;
+            b=c;
         }
-        return a[n];
+        return b;
         
     }
 }
