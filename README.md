@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/dishaa-g/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/dishaa-g/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/dishaa-g/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dishaa-g/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dishaa-g/Leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/dishaa-g/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/dishaa-g/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/dishaa-g/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dishaa-g/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/dishaa-g/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dishaa-g/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/dishaa-g/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dishaa-g/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dishaa-g/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
