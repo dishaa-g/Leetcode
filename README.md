@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dishaa-g/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/dishaa-g/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/dishaa-g/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dishaa-g/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/dishaa-g/Leetcode/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dishaa-g/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dishaa-g/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dishaa-g/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dishaa-g/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dishaa-g/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/dishaa-g/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dishaa-g/Leetcode/tree/master/0283-move-zeroes) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/dishaa-g/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dishaa-g/Leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/dishaa-g/Leetcode/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/dishaa-g/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dishaa-g/Leetcode/tree/master/0283-move-zeroes) |
 ## String
