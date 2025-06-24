@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/dishaa-g/Leetcode/tree/master/0948-sort-an-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/dishaa-g/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dishaa-g/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/dishaa-g/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
 | ------- |
