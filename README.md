@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dishaa-g/Leetcode/tree/master/0283-move-zeroes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/dishaa-g/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0485-max-consecutive-ones](https://github.com/dishaa-g/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/dishaa-g/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/dishaa-g/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/dishaa-g/Leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/dishaa-g/Leetcode/tree/master/0948-sort-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dishaa-g/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dishaa-g/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/dishaa-g/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/dishaa-g/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/dishaa-g/Leetcode/tree/master/0898-transpose-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dishaa-g/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
