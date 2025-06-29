@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/dishaa-g/Leetcode/tree/master/0948-sort-an-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/dishaa-g/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dishaa-g/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dishaa-g/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dishaa-g/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dishaa-g/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dishaa-g/Leetcode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/dishaa-g/Leetcode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dishaa-g/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dishaa-g/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dishaa-g/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/dishaa-g/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/dishaa-g/Leetcode/tree/master/0792-binary-search) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dishaa-g/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dishaa-g/Leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dishaa-g/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dishaa-g/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
