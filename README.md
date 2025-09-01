@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dishaa-g/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dishaa-g/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dishaa-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/dishaa-g/Leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/dishaa-g/Leetcode/tree/master/0071-simplify-path) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dishaa-g/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/dishaa-g/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
