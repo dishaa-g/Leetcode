@@ -1,9 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int n= nums.length;
-        int count=0;
+        int n=nums.length;
         int candidate=0;
         int result=0;
+        int count=0;
         for(int i=0;i<n;i++){
             candidate=nums[i];
             for(int j=0;j<n;j++){
@@ -15,10 +15,7 @@ class Solution {
                     break;
                 }
             }
-            if(count==1){
-                result=candidate;
-                break;
-            }
+            if(count==1) result=candidate;
         }
         return result;
     }
