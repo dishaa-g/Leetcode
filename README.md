@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/dishaa-g/Leetcode/tree/master/0071-simplify-path) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dishaa-g/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/dishaa-g/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/dishaa-g/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/dishaa-g/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/dishaa-g/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/dishaa-g/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
