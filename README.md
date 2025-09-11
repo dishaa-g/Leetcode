@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dishaa-g/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dishaa-g/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dishaa-g/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/dishaa-g/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/dishaa-g/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/dishaa-g/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/dishaa-g/Leetcode/tree/master/0189-rotate-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dishaa-g/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/dishaa-g/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dishaa-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0138-copy-list-with-random-pointer](https://github.com/dishaa-g/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dishaa-g/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/dishaa-g/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/dishaa-g/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dishaa-g/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dishaa-g/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dishaa-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
