@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/dishaa-g/Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/dishaa-g/Leetcode/tree/master/1642-water-bottles) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/dishaa-g/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dishaa-g/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dishaa-g/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dishaa-g/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dishaa-g/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/dishaa-g/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dishaa-g/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/dishaa-g/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dishaa-g/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dishaa-g/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/dishaa-g/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dishaa-g/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
