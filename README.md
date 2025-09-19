@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dishaa-g/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishaa-g/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dishaa-g/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/dishaa-g/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dishaa-g/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dishaa-g/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dishaa-g/Leetcode/tree/master/0066-plus-one) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dishaa-g/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dishaa-g/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dishaa-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/dishaa-g/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dishaa-g/Leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/dishaa-g/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dishaa-g/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dishaa-g/Leetcode/tree/master/0036-valid-sudoku) |
 | [0898-transpose-matrix](https://github.com/dishaa-g/Leetcode/tree/master/0898-transpose-matrix) |
 ## Prefix Sum
 |  |
