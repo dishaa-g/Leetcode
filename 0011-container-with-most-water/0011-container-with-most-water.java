@@ -3,14 +3,12 @@ class Solution {
         int left = 0, right = height.length - 1;
         int res = 0;
         while (left < right) {
-        
-            int water = Math.min(height[left], height[right]) * (right - left);
+            int width=right-left;
+            int water = Math.min(height[left], height[right]) * (width);
             res = Math.max(res, water);
             
-            if (height[left] < height[right])
-                left += 1;
-            else
-                right -= 1;
+            if (height[left] < height[right]) left++;
+            else right--;
         }
         
         return res;
